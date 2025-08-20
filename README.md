@@ -86,4 +86,4 @@ Untuk pengembangan proyek ini di masa depan, beberapa langkah dapat ditempuh unt
 2.  **Tuning Parameter Model:** Mengeksplorasi penyesuaian parameter model seperti `top_p` dan `temperature` untuk melihat dampaknya terhadap "kreativitas" dan "kehati-hatian" model dalam membuat keputusan klasifikasi.
 3.  **Pengembangan Aplikasi Prototipe:** Mengembangkan model ini menjadi sebuah aplikasi sederhana (misalnya, *web app* atau *browser extension*) di mana pengguna dapat memasukkan URL atau teks berita untuk mendapatkan klasifikasi secara *real-time*. Hal ini akan menjadi demonstrasi praktis dari kegunaan model.
 ## Cara Menjalankan
-Berikan instruksi singkat jika orang lain mau mencoba notebook lo. Misal: "Untuk menjalankan notebook ini, Anda memerlukan API Token dari Replicate yang disimpan di Google Colab Secrets dengan nama `REPLICATE_API_TOKEN`."
+Berikan instruksi singkat untuk menjalankan notebook ini, Anda memerlukan API Token dari Replicate yang disimpan di Google Colab Secrets dengan nama `REPLICATE_API_TOKEN`."
