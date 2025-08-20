@@ -87,3 +87,6 @@ Untuk pengembangan proyek ini di masa depan, beberapa langkah dapat ditempuh unt
 3.  **Pengembangan Aplikasi Prototipe:** Mengembangkan model ini menjadi sebuah aplikasi sederhana (misalnya, *web app* atau *browser extension*) di mana pengguna dapat memasukkan URL atau teks berita untuk mendapatkan klasifikasi secara *real-time*. Hal ini akan menjadi demonstrasi praktis dari kegunaan model.
 ## Cara Menjalankan
 Berikan instruksi singkat untuk menjalankan notebook ini, Anda memerlukan API Token dari Replicate yang disimpan di Google Colab Secrets dengan nama `REPLICATE_API_TOKEN`."
+
+**##Link Google Colab**
+https://colab.research.google.com/drive/1R-hg_sxfsMHP15GALDaJHJTYAOGV0m0V?usp=sharing
